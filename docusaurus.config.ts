@@ -93,6 +93,7 @@ const config: Config = {
           sidebarId: "assignmentSidebar",
           position: "left",
           label: "Assignment",
+          className: "navbar-assignment-tab",
         },
         {
           href: "https://github.com/facebook/docusaurus",
